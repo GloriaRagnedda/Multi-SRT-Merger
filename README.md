@@ -1,6 +1,6 @@
 # SRT Merger
 
-This is a simple application to merge English and Italian SRT files into a single file.
+This is a simple application to merge two SRT files into a single file.
 
 ## How to Use
 
